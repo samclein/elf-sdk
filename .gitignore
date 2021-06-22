@@ -6,3 +6,4 @@ cache
 typechain
 elf.env
 elf.default.env
+package-lock.json
